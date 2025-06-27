@@ -1,7 +1,6 @@
 "use client";
 import { motion } from "framer-motion";
 import Image from "next/image";
-import styles from "./page.module.css";
 import { useState, useEffect } from "react";
 
 function Preloader() {
