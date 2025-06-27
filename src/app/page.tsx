@@ -67,9 +67,9 @@ export default function Home() {
           style={{ padding: "2rem", textAlign: "center" }}
         >
           <h1>Halıyıkatma Halı Yıkama Fabrikası</h1>
-          <p>İstanbul'un tüm illerine hizmet veren Halı Yıkama Fabrikası. Halılarınızı profesyonel ekipmanlarımızla yıkıyoruz. Hızlı, güvenilir ve uygun fiyatlarla hizmet veriyoruz.</p>
+          <p>İstanbul&#39;un tüm illerine hizmet veren Halı Yıkama Fabrikası. Halılarınızı profesyonel ekipmanlarımızla yıkıyoruz. Hızlı, güvenilir ve uygun fiyatlarla hizmet veriyoruz.</p>
         </motion.section>
       </main>
     </>
   );
-}
+};
